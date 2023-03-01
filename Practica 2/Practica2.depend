@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677203954 source:c:\users\jesus eduardo j.c\desktop\nueva carpeta\2\practica2\src\mamifero.cpp
+	"Mamifero.h"
+
+1677203954 c:\users\jesus eduardo j.c\desktop\nueva carpeta\2\practica2\include\mamifero.h
+	<iostream>
+
